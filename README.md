@@ -80,6 +80,13 @@ Any standalone MPC running **MPC OS 3.10.1 or later** (older firmware cannot loa
 
 If you run it on one of the 🟡 machines, tell me how it goes.
 
+## Found a bug?
+
+Write to **[manideiz.plugins@proton.me](mailto:manideiz.plugins@proton.me)** with:
+
+- your MPC model and its MPC OS version,
+- what you did and what happened.
+
 ## Rights
 
 Deluxe EQ is **free to use**. It is **© 2026 MANI DEÏZ, all rights reserved**: please link to this page rather than
